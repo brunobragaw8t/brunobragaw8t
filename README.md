@@ -5,14 +5,14 @@
 
 ### Languages and tools:
 
-![Editors](https://skillicons.dev/icons?i=vim,vscode)
+![Editors](https://skillicons.dev/icons?i=vim,vscode&theme=light)
 
-![The basics](https://skillicons.dev/icons?i=html,css,sass)
+![The basics](https://skillicons.dev/icons?i=html,css,sass,tailwind&theme=light)
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,nest,vue,nuxt)
+![JavaScript](https://skillicons.dev/icons?i=js,ts,nodejs,nest,vue,nuxt&theme=light)
 
-![PHP](https://skillicons.dev/icons?i=php,wordpress)
+![PHP](https://skillicons.dev/icons?i=php,wordpress&theme=light)
 
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)
 
-![Version control](https://skillicons.dev/icons?i=git,gitlab)
+![Version control](https://skillicons.dev/icons?i=git,gitlab&theme=light)
