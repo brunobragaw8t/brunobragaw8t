@@ -1,7 +1,8 @@
 ### Hi, my name's Bruno and I'm from Porto! 👋
 
 - 👔 I'm a passionate Full-Stack Web Developer, currently working full-time
-- 🌱 I'm actively learning TS and Express (with NestJS)
+- 🌱 Actively learning TypeScript, with NestJS and Nuxt as my main stack
+- 🧰 I like to make tools and mini-apps to improve my life
 
 ### Languages and tools:
 
