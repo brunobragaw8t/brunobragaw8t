@@ -1,9 +1,17 @@
 ### Hi, my name's Bruno and I'm from Porto! 👋
 
-- 👔 I'm a passionate Full-Stack Web Developer, currently working full-time
-- 🌱 Actively learning TypeScript, with NestJS and Nuxt as my main stack
-- ⚛️ Also learning React and Next.js, to broaden horizons
-- 🧰 I like to make tools and mini-apps to improve my life
+- 👔 I'm a passionate web developer, focused on building on fast and intuitive user experiences
+- 🧰 I like to make tools and mini-apps to make my life easier
+- 🌱 Actively learning TypeScript, with Vue as my main stack
+- ⚛️ Also using React on the side, to broaden horizons
+
+### Projects
+
+- 💰 **[Troney](https://github.com/brunobragaw8t/troney-react)** - expense tracker focused on a fast, keyboard-driven UI to keep my life on track
+- 🃏 **[PlanPoker](https://github.com/brunobragaw8t/plan-poker)** - estimate user stories in style
+- 🕖 **[VT Puncher](https://github.com/brunobragaw8t/vt-puncher)** - automatically clock in/out on Visualtime
+- ⏳ **[Timesheet Bulk Logger](https://github.com/brunobragaw8t/jira-timesheet-bulk-logger)** - log recurring meetings on Tempo in bulk
+- ⚔️ **[4Classic Upgrade Simulation](https://github.com/brunobragaw8t/4classic-upgrade-cost-simulation)** - simulate how much it costs to reach your gear goals
 
 ### Languages and tools:
 
