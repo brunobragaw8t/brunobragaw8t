@@ -8,8 +8,8 @@
 ### Projects
 
 - 💰 **[Troney](https://github.com/brunobragaw8t/troney-react)** - expense tracker focused on a fast, keyboard-driven UI to keep my life on track
-- ♟️ **[Chess Overdrive](https://github.com/brunobragaw8t/chess-overdrive)** - Chess game where you build your formation and upgrade your pieces
-- 💪 **[Fit Notes](https://github.com/brunobragaw8t/fit-notes)** - keep track of workout sessions
+- 💪 **[Fit Notes](https://github.com/brunobragaw8t/fit-notes)** - workout session tracker
+- ♟️ **[Chess Overdrive](https://github.com/brunobragaw8t/chess-overdrive)** - chess game where you build your formation and upgrade your pieces
 - 🃏 **[PlanPoker](https://github.com/brunobragaw8t/plan-poker)** - estimate user stories in style
 - 🕖 **[VT Puncher](https://github.com/brunobragaw8t/vt-puncher)** - automatically clock in/out on Visualtime
 - 🗓️ **[Jira Tempo Week Timesheet CLI](https://github.com/brunobragaw8t/jira-tempo-week-timesheet)** - log your meetings for the week
