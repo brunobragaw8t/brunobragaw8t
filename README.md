@@ -10,6 +10,7 @@
 - 💰 **[Troney](https://github.com/brunobragaw8t/troney-react)** - expense tracker focused on a fast, keyboard-driven UI to keep my life on track
 - 💪 **[Fit Notes](https://github.com/brunobragaw8t/fit-notes)** - workout session tracker
 - 🃏 **[PlanPoker](https://github.com/brunobragaw8t/plan-poker)** - estimate user stories in style
+- 🏠 **[Office Days Planner](https://github.com/brunobragaw8t/office-days-planner)** - minimal calendar to track monthly budget of home-office days
 - 🕖 **[VT Puncher](https://github.com/brunobragaw8t/vt-puncher)** - automatically clock in/out on Visualtime
 - 🗓️ **[Jira Tempo Week Timesheet CLI](https://github.com/brunobragaw8t/jira-tempo-week-timesheet)** - log your meetings for the week
 - ⏳ **[Timesheet Bulk Logger](https://github.com/brunobragaw8t/jira-timesheet-bulk-logger)** - log recurring meetings on Tempo in bulk
